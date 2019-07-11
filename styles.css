@@ -1,0 +1,233 @@
+img:hover{
+  transform: scale(1.2);
+}
+section{
+  text-align: center;
+  font-family: 'Mountains of Christmas', cursive;
+}
+.photos{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.photo1{
+  height: 250px;
+  width: 14%;
+  object-fit: cover;
+}
+.photo2{
+  height: 250px;
+  width: 14%;
+  object-fit: cover;
+}
+.photo3{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo4{
+  height: 250px;
+  width: 14%;
+  object-fit: cover;
+}
+.photo5{
+  height: 250px;
+  width: 14%;
+  object-fit: cover;
+}
+.photo6{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo7{
+  height: 250px;
+  width: 14%;
+  object-fit: cover;
+}
+.photorow{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.photo8{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo9{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo10{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo11{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo15{
+  height: 750px;
+  width: 40%;
+  object-fit: cover;
+}
+.photorow2{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: -500px
+}
+.photo12{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo13{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo14{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo16{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photorow3{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: -400;
+}
+.photo17{
+  height: 750px;
+  width: 30%;
+  object-fit: cover;
+}
+.photo18{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photo19{
+  height: 250px;
+  width: 15%;
+  object-fit: cover;
+}
+.photorow4{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 30%;
+  margin-top: -500px;
+}
+.photo20{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo21{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo22{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo23{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo24{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photorow5{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 30%;
+}
+.photo25{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo26{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo27{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo28{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photo29{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+.photorow6{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.photo30{
+  height: 250px;
+  width: 20%;
+  object-fit: cover;
+}
+  .photo31{
+    height: 250px;
+    width: 20%;
+    object-fit: cover;
+  }
+  .photo33{
+    height: 250px;
+    width: 20%;
+    object-fit: cover;
+  }
+  .photo34{
+    height: 500px;
+    width: 40%;
+    object-fit: cover;
+  }
+  .photorow7{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: -250px
+  }
+  .photo35{
+    height: 250px;
+    width: 20%;
+    object-fit: cover;
+  }
+  .photo36{
+    height: 250px;
+    width: 20%;
+    object-fit: cover;
+  }
+  .photo37{
+    height: 250px;
+    width: 20%;
+    object-fit: cover;
+  }
